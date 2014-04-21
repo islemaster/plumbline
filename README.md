@@ -1,7 +1,7 @@
 plumbline
 =========
 
-Inventory and relationship management for a fine arts organization.
+Helping artists keep things straight:  Inventory and relationship management for fine arts.
 
 Project Status: This project is just barely spinning up!  That's why there's nothing here.  Coming soon?
 
